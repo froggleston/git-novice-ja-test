@@ -62,10 +62,12 @@ learners:
 instructors:
 #Learner Profiles
 profiles:
+
 #Customisation ---------------------------------------------
 #This space below is where custom yaml items (e.g. pinning
 #sandpaper and varnish versions) should live
-#url: 'https://swcarpentry-ja.github.io/git-novice'
-#analytics: carpentries
+
+url: 'https://froggleston.github.io/git-novice-ja-test/'
+analytics: carpentries
 
 lang: ja
