@@ -69,7 +69,7 @@ jobs:
           sandpaper::package_cache_trigger(TRUE)
           lesson_trans_dir <- paste0(tempdir(), "/dovetail-", Sys.Date())
           # lang_code <- Sys.getenv("LANG_CODE", unset = "en")
-          lang_code <- "${{ secrets.LANG_CODE }}"
+          lang_code <- "ja"
           lang_code
 
           # dovetail::render_trans_from_branch(lang = lang_code)
