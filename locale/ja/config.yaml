@@ -7,7 +7,7 @@
 #lc: Library Carpentry
 #cp: Carpentries (to use for instructor training for instance)
 #incubator: The Carpentries Incubator
-carpentry: 'swc'
+carpentry: 'incubator'
 #Overall title for pages.
 title: 'Gitによるバージョン管理'
 #Date the lesson was created (YYYY-MM-DD, this is empty by default)
@@ -20,7 +20,7 @@ life_cycle: 'stable'
 #License of the lesson materials (recommended CC-BY 4.0)
 license: 'CC-BY 4.0'
 #Link to the source repository for this lesson
-source: 'https://github.com/swcarpentry-ja/git-novice'
+source: 'https://github.com/froggleston/git-novice-ja-test'
 #Default branch of your lesson
 branch: 'main'
 #Who to contact if there are any issues
@@ -65,6 +65,7 @@ profiles:
 #Customisation ---------------------------------------------
 #This space below is where custom yaml items (e.g. pinning
 #sandpaper and varnish versions) should live
-url: 'https://swcarpentry-ja.github.io/git-novice'
-analytics: carpentries
+#url: 'https://swcarpentry-ja.github.io/git-novice'
+#analytics: carpentries
+
 lang: ja
